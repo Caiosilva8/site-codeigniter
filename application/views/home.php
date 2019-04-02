@@ -1,4 +1,16 @@
-<section id="about" class="light-bg">
+<!-- Header -->
+		<header>
+			<div class="container">
+				<div class="slider-container">
+					<div class="intro-text">
+						<div class="intro-lead-in">Bem Vindos ao Nosso Site</div>
+						<div class="intro-heading">Smart Gadgets</div>
+						<a href="#about" class="page-scroll btn btn-xl">Saiba Mais</a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<section id="about" class="light-bg">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
